@@ -33,7 +33,7 @@ Bring your past exam papers, then add lecture notes, a syllabus, or an answer ke
 | :--- | :--- |
 | **One connected guide.** Read from foundations to worked solutions in a continuous document, with chapter jumps when you need them. | **Ask where you're stuck.** Ask about a sentence, equation, or step. Your conversation stays attached to that passage. |
 | **Stay connected to the source.** Review the question inventory and follow questions back to their original papers. | **Keep useful explanations.** Add an AI answer to your guide as an editable clarification without losing the conversation. |
-| **Study in your own rhythm.** Reopen saved guides offline, track your place, or export a printable copy. | **Choose your setup.** Connect ChatGPT or Claude, choose a teaching profile, and switch between light and dark themes. |
+| **Study in your own rhythm.** Reopen saved guides offline, track your place, or export a printable copy. | **Choose your setup.** Connect ChatGPT or Claude, pick which AI models each build step uses, choose a teaching profile, and switch between light and dark themes. |
 
 The interface supports **English and Bahasa Indonesia**. You can choose the teaching language for each guide.
 
